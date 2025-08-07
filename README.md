@@ -32,7 +32,7 @@ I am currently a student!
 
 ### 🔝 Top Contributed Repo
 
-![](<https://github-contributor-stats.vercel.app/api?alex-533=axorax&limit=5&theme=dark&combine_all_yearly_contributions=true>)
+![](<https://github-contributor-stats.vercel.app/api?username=axorax&limit=5&theme=dark&combine_all_yearly_contributions=true>)
 
 ### 😂 Random Dev Meme
 
